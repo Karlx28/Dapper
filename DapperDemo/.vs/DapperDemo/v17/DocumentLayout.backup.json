@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kxrmm\\source\\repos\\Dapper\\DapperDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FC8BBA5-04D6-49F6-9B7D-DB0276DA0ED3}|DapperDemo\\DapperDemo.csproj|C:\\Users\\kxrmm\\source\\repos\\Dapper\\DapperDemo\\dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3FC8BBA5-04D6-49F6-9B7D-DB0276DA0ED3}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DCA4B095-A8FF-4163-86B1-E8DB07ACA866}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\kxrmm\\source\\repos\\Dapper\\DapperDemo\\accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA4B095-A8FF-4163-86B1-E8DB07ACA866}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FC8BBA5-04D6-49F6-9B7D-DB0276DA0ED3}|DapperDemo\\DapperDemo.csproj|C:\\Users\\kxrmm\\source\\repos\\Dapper\\DapperDemo\\dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FC8BBA5-04D6-49F6-9B7D-DB0276DA0ED3}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCA4B095-A8FF-4163-86B1-E8DB07ACA866}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\kxrmm\\source\\repos\\dapper\\dapperdemo\\accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCA4B095-A8FF-4163-86B1-E8DB07ACA866}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FC8BBA5-04D6-49F6-9B7D-DB0276DA0ED3}|DapperDemo\\DapperDemo.csproj|c:\\users\\kxrmm\\source\\repos\\dapper\\dapperdemo\\dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FC8BBA5-04D6-49F6-9B7D-DB0276DA0ED3}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCA4B095-A8FF-4163-86B1-E8DB07ACA866}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\kxrmm\\source\\repos\\Dapper\\DapperDemo\\accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -44,14 +44,14 @@
               "RelativeDocumentMoniker": "DapperDemo\\Form1.cs",
               "ToolTip": "C:\\Users\\kxrmm\\source\\repos\\Dapper\\DapperDemo\\DapperDemo\\Form1.cs",
               "RelativeToolTip": "DapperDemo\\Form1.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAIwCkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAIAwwGAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T19:51:41.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kxrmm\\source\\repos\\Dapper\\DapperDemo\\DapperDemo\\Form1.cs",
               "RelativeDocumentMoniker": "DapperDemo\\Form1.cs",
@@ -63,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\kxrmm\\source\\repos\\Dapper\\DapperDemo\\AccesoDatos\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\CustomerRepository.cs",
               "ToolTip": "C:\\Users\\kxrmm\\source\\repos\\Dapper\\DapperDemo\\AccesoDatos\\CustomerRepository.cs",
               "RelativeToolTip": "AccesoDatos\\CustomerRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwFoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAuwIcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T19:46:17.946Z",
               "EditorCaption": ""
@@ -96,8 +96,7 @@
               "RelativeToolTip": "DapperDemo\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-18T19:37:31.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T19:37:31.78Z"
             },
             {
               "$type": "Document",
